@@ -1,0 +1,10 @@
+=== Splatoon 2 Salmon Run Ink Colors (RGB) ===
+
+Orange: 0xFB5C03
+Neon Green: 0x17A80C
+
+Blue: 0x311AA8
+Neon Green: 0x17A80C
+
+Pink: 0xCB0A56
+Neon Green: 0x17A80C 
