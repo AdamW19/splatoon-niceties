@@ -1,0 +1,29 @@
+=== Splatoon 2 Ranked Modes Ink Color (RGB) ===
+
+Slimy Green: 0x24B100
+Grape: 0x571DB1
+Neutral: 0xCD2C7E
+
+Winter Green: 0x01B362
+Dark Magenta: 0xB1008D
+Neutral: 0xA8B700
+
+Turquoise: 0x0DAE6E
+Pumpkin: 0xF75900
+Neutral: 0x6A1EC1
+
+Mustard: 0xCF7F04
+Purple: 0x9208B2
+Neutral: 0x1CB46A
+
+Blue: 0x2923B5
+Green: 0x5EB604
+Neutral: 0xCA21A4
+
+Rich Purple: 0x7B0393
+Green Apple: 0x44BA06
+Neutral: 0xDC7821
+
+Yellow: 0xD9C103
+True Blue: 0x007AC9
+Neutral: 0xED5909
