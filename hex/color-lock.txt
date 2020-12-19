@@ -1,0 +1,4 @@
+=== Splatoon 2 Color Lock (RGB) ===
+
+Golden Yellow: 0xDEA800
+Electric Blue: 0x4717A9 
